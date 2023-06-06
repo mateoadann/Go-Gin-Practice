@@ -1,0 +1,55 @@
+[{
+        "Id": 1,
+        "Nombre": "Iphone1",
+        "Precio": 1000,
+        "Stock": 10,
+        "Codigo": 1,
+        "Publicado": true,
+        "FechaDeCreacion": "01-01-23"
+    },
+  {
+        "Id": 2,
+        "Nombre": "Samsung Galaxy",
+        "Precio": 800,
+        "Stock": 15,
+        "Codigo": 2,
+        "Publicado": true,
+        "FechaDeCreacion": "02-02-23"
+    },
+   {
+        "Id": 3,
+        "Nombre": "Sony PlayStation",
+        "Precio": 500,
+        "Stock": 20,
+        "Codigo": 3,
+        "Publicado": false,
+        "FechaDeCreacion": "03-03-23"
+    },
+    {
+        "Id": 4,
+        "Nombre": "MacBook Pro",
+        "Precio": 2000,
+        "Stock": 5,
+        "Codigo": 4,
+        "Publicado": true,
+        "FechaDeCreacion": "04-04-23"
+    },
+   {
+        "Id": 5,
+        "Nombre": "Nike Air Max",
+        "Precio": 150,
+        "Stock": 30,
+        "Codigo": 5,
+        "Publicado": true,
+        "FechaDeCreacion": "05-05-23"
+    },
+    {
+        "Id": 6,
+        "Nombre": "Canon DSLR Camera",
+        "Precio": 1200,
+        "Stock": 8,
+        "Codigo": 6,
+        "Publicado": true,
+        "FechaDeCreacion": "06-06-23"
+    }
+]
